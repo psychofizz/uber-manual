@@ -17,7 +17,8 @@ cuán caro puede ser el Uber a largo plazo o siquiera si será algo
 rentable en el futuro. De ahí nace la idea de un simulador de día de Uber.
 
 .. toctree::
-
+   
+   index
    ingreso
    simulador
    tecnicos
@@ -32,7 +33,6 @@ Características principales:
 - **Precios dinámicos:** Implementa un sistema de precios dinámico basado en tráfico.
 - **Personalización:** Modifica parámetros como el consumo de combustible, etc.
 
-Para ver el funcionamiento del :ref: `Simulador`
 
 Licencia
 --------
