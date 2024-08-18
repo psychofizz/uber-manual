@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Uber Simulador'
+copyright = '2024, Grupo 4?'
+author = 'psychofizz'
 
 release = '0.1'
 version = '0.1.0'
