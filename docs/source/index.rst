@@ -1,3 +1,9 @@
+.. dev:
+.. ingreso:
+.. simulador:
+.. tecnicos:
+
+
 Simulador de Uber
 =================
 Bienvenido a la documentación del Simulador de Uber de Teoria-1800
@@ -11,8 +17,6 @@ cuán caro puede ser el Uber a largo plazo o siquiera si será algo
 rentable en el futuro. De ahí nace la idea de un simulador de día de Uber.
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contenidos
 
    ingreso
    simulador
@@ -27,6 +31,8 @@ Características principales:
 - **Simulación de viajes:** Configura y ejecuta simulaciones de viajes desde un punto A a un punto B.
 - **Precios dinámicos:** Implementa un sistema de precios dinámico basado en tráfico.
 - **Personalización:** Modifica parámetros como el consumo de combustible, etc.
+
+Para ver el funcionamiento del :ref: `Simulador`
 
 Licencia
 --------
