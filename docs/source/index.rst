@@ -9,7 +9,7 @@ Simulador de Uber
 Bienvenido a la documentación del Simulador de Uber de Teoria-1800
 ---------------------------------------------------
 
-Para usar el proyecto, puede acceder a nuestra versión en linea ubicada en `nuestra página web <https://uber-sim-teoria-sim.netlify.app>`.
+Para usar el proyecto, puede acceder a nuestra versión en linea ubicada en `nuestra página web <https://uber-sim-teoria-sim.netlify.app>`_.
 
 
 Este proyecto se trata sobre la creación de una web app que da una
