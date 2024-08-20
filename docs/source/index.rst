@@ -8,6 +8,10 @@ Simulador de Uber
 =================
 Bienvenido a la documentación del Simulador de Uber de Teoria-1800
 ---------------------------------------------------
+
+Para usar el proyecto, puede acceder a nuestra versión en linea ubicada en `nuestra página web <https://uber-sim-teoria-sim.netlify.app>`.
+
+
 Este proyecto se trata sobre la creación de una web app que da una
 idea sobre lo que uno como Uber driver necesita para ser fructífero en
 su emprendimiento. Cientos de personas en Honduras dependen de menos
@@ -17,7 +21,7 @@ cuán caro puede ser el Uber a largo plazo o siquiera si será algo
 rentable en el futuro. De ahí nace la idea de un simulador de día de Uber.
 
 .. toctree::
-   
+
    index
    ingreso
    simulador
@@ -37,3 +41,4 @@ Características principales:
 Licencia
 --------
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
+ =
