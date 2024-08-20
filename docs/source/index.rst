@@ -2,6 +2,7 @@
 .. ingreso:
 .. simulador:
 .. tecnicos:
+.. dev:
 
 
 Simulador de Uber
@@ -26,7 +27,7 @@ Para usar el proyecto, puede acceder a nuestra versión en linea ubicada en `nue
    ingreso
    simulador
    tecnicos
-   uso
+   dev
 
 Introducción
 ------------
