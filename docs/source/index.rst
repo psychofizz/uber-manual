@@ -19,7 +19,7 @@ generar algo de dinero de forma accesible. Pero es difícil considerar
 cuán caro puede ser el Uber a largo plazo o siquiera si será algo
 rentable en el futuro. De ahí nace la idea de un simulador de día de Uber.
 
-Para usar el proyecto, puede acceder a nuestra versión en linea ubicada en `nuestra página web <https://uber-sim-teoria-sim.netlify.app>`_
+Para usar el proyecto, puede acceder a nuestra versión en linea ubicada en `nuestra página web hosteadea en netlify <https://uber-sim-teoria-sim.netlify.app>`_
 
 .. toctree::
 
