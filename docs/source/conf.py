@@ -3,11 +3,11 @@
 # -- Project information
 
 project = 'Uber Simulador'
-copyright = '2024, Grupo 4?'
+copyright = '2024, Grupo 2'
 author = 'psychofizz'
 
 release = '0.1'
-version = '0.1.0'
+version = '1.0'
 
 # -- General configuration
 
